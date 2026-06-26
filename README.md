@@ -13,7 +13,7 @@
 
 ## 🌐 Socials
 
-- 🌐 Portfólio: portfoliojoaovitor-beta.vercel.app
+- 🌐 Portfólio: https://portifoliojoaovitor-beta.vercel.app
 - 💼 LinkedIn: www.linkedin.com/in/joão-vítor-jv
 - 📧 Email: mjoaooliveira7891@gmail.com
 
