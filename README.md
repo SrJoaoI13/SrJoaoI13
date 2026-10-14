@@ -1,21 +1,31 @@
 # 👋 Olá! Eu sou João Vítor
 
-## 💫 About Me
+### 🚀 Sobre mim
 
-- 💻 Desenvolvedor Full Stack focado na criação de aplicações web modernas, escaláveis e de alta qualidade.
-- 🚀 Desenvolvimento de APIs REST, integrações com serviços externos e automação de processos.
-- 🎨 Desenvolvimento de interfaces responsivas utilizando frameworks e bibliotecas modernas.
-- 🏗️ Aplicação de boas práticas de engenharia de software, arquitetura, código limpo e separação de responsabilidades.
-- 🗄️ Integração entre Front-end, Back-end e bancos de dados relacionais.
-- 🔒 Conhecimento em autenticação, segurança de aplicações e gerenciamento de variáveis de ambiente.
-- 🌱 Em constante aprendizado, buscando aprimorar conhecimentos e acompanhar novas tecnologias.
-- 📚 Estudante do curso Técnico em Desenvolvimento de Sistemas (SENAI) e graduando em Bacharelado em Engenharia de Software (Descomplica).
+- 🎓 Cursando **Engenharia de Software** pela Uniamérica/Descomplica (**2º semestre**).
+- 🎓 Técnico em **Desenvolvimento de Sistemas** pelo SENAI.
+- 💻 Desenvolvendo projetos acadêmicos e pessoais com foco em **Java, Spring Boot, Python e Node.js**.
+- 🚀 Estudando e desenvolvendo **APIs REST**, integração com bancos de dados e validação de dados.
+- 🎨 Explorando o desenvolvimento Front-end com **React, JavaScript, Vue.js e HTML/CSS**.
+- 🗄️ Conhecimentos em **MySQL**, modelagem de dados, programação orientada a objetos e Git/GitHub.
+- 🤖 Interesse em **Inteligência Artificial, chatbots e automação de processos com Python**.
+- 🌱 Aprendendo continuamente, buscando transformar conhecimentos teóricos em soluções práticas e evoluir como desenvolvedor.
 
-## 🌐 Socials
+---
 
-- 🌐 Portfólio: https://portifoliojoaovitor-beta.vercel.app
-- 💼 LinkedIn: https://www.linkedin.com/in/jo%C3%A3o-v%C3%ADtor-jv/
-- 📧 Email: mjoaooliveira7891@gmail.com
+## 🌐 Conecte-se comigo
+
+<p align="left">
+  <a href="https://portifoliojoaovitor-beta.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-v%C3%ADtor-jv/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:mjoaooliveira7891@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
+  </a>
+</p>
 
 ---
 
@@ -38,29 +48,32 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
 ### 🗄️ Banco de Dados
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🔧 Controle de Versão e Ferramentas
+### 🔗 APIs e Testes
+
+![REST API](https://img.shields.io/badge/API_REST-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
+![Software Testing](https://img.shields.io/badge/Testes_de_Software-007ACC?style=for-the-badge)
+
+### 🔧 Controle de Versão e Desenvolvimento
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
+
+### 🎨 Design e Ferramentas Criativas
+
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
-### 🧪 Testes e Qualidade
-
-![Software Testing](https://img.shields.io/badge/Software_Testing-007ACC?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### 📊 Ferramentas de Produtividade
+### 📊 Ferramentas de Produtividade e Dados
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
