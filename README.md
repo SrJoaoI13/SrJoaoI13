@@ -12,19 +12,12 @@
 - 🌱 Aprendendo continuamente, buscando transformar conhecimentos teóricos em soluções práticas e evoluir como desenvolvedor.
 
 ---
-
 ## 🌐 Conecte-se comigo
 
 <p align="left">
-  <a href="https://portifoliojoaovitor-beta.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portf%C3%B3lio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-v%C3%ADtor-jv/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:mjoaooliveira7891@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
-  </a>
+  <a href="https://portifoliojoaovitor-beta.vercel.app"><img src="https://img.shields.io/badge/PORTF%C3%93LIO-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-v%C3%ADtor-jv/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
+  <a href="mailto:mjoaooliveira7891@gmail.com"><img src="https://img.shields.io/badge/E--MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
 </p>
 
 ---
@@ -56,13 +49,14 @@
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🔗 APIs e Testes
+### 🧪 APIs e Testes
 
 ![REST API](https://img.shields.io/badge/API_REST-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
-![Software Testing](https://img.shields.io/badge/Testes_de_Software-007ACC?style=for-the-badge)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
-### 🔧 Controle de Versão e Desenvolvimento
+### 🔧 Controle de Versão e Ferramentas
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -85,5 +79,5 @@
 # 📊 GitHub Status
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrJoaoI13&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas no GitHub"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrJoaoI13&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas no GitHub">
 </p>
